@@ -68,9 +68,7 @@ NFT是一种数字资产，那么如何把每个NFT和拥有者进行关联呢�
 
 # NFT的应用分布
 
-下图是对web3领域的一个简单分层，NFT项目目前主要集中在数字收藏品、游戏资产和虚拟世界中
-
-![](https://bytedance.feishu.cn/space/api/box/stream/download/asynccode/?code=Y2JlYzQ4NjI4ZDgzMWE3ODlhMzlhYWY5NjczMDQxZDVfeHhCM0FwSVZSWGduMFFtTG1ib2JmcXZzdVVQZzJKRUJfVG9rZW46Ym94Y25vMEpTVURWeGtiM29kUGMxelBzTFRmXzE2NTgxNTAxODA6MTY1ODE1Mzc4MF9WNA)
+NFT项目目前主要集中在数字收藏品、游戏资产和虚拟世界中
 
 ## 数字收藏品
 
