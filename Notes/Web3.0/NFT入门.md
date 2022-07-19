@@ -82,43 +82,34 @@ https://www.larvalabs.com/cryptopunks
 
 截止7.18日，目前1 ETH = 1361 USD
 
-cryptopunks 最高成交 124457 * 1400 ≈ 1.7亿美金
+cryptopunks 最高成交 124457ETH * 1400 USD ≈ 1.7亿美金
 
-目前cryptopunks collection的总价值在132亿美金左右
-
-![](https://bytedance.feishu.cn/space/api/box/stream/download/asynccode/?code=NDUxMjM5NDFhMmRiMDVmZDU4MWE1MTUwZTQzNGEyOTRfS3JEbThqclhlelF4akZWRjhhdFZ4Qkl0SXRZQzlTejFfVG9rZW46Ym94Y25YdmdicnBrQkVhUVdtMmVVNTZRWHpoXzE2NTgxNTAxODA6MTY1ODE1Mzc4MF9WNA)
-
-![](https://bytedance.feishu.cn/space/api/box/stream/download/asynccode/?code=OTRlMjNhNTZlYzMyZDU1MmI2YTY2YTA0M2I2NWVhNjdfVVpuaXdOVDkxM1h0cHFFcTQ4SVlPT2ZNNmNWVlhOdjRfVG9rZW46Ym94Y25IT09ETkhHZkh2OWJEZzQyQ1ZMR29vXzE2NTgxNTAxODA6MTY1ODE1Mzc4MF9WNA)
-
+目前cryptopunks collection的总价值在973kETH ≈ 132亿美金左右
+![[Pasted image 20220719124745.png]]
 Bored Ape
-
+![[Pasted image 20220719124901.png]]
 ![](https://bytedance.feishu.cn/space/api/box/stream/download/asynccode/?code=NTk0ZTk4OGZkYzNlZGI0MTJhMGQwNWI0OWFmY2RlYzdfUUYxMW1pMktHdExzOUlIdnRydWpaZG55MXFxRWhxZGJfVG9rZW46Ym94Y25aQk1vWG9xVGw1TmpNRDRINVFDdHVHXzE2NTgxNTAxODA6MTY1ODE1Mzc4MF9WNA)
 
 ## 游戏道具
 
 GameFi的出现和发展大大促进了NFT市场的交易，游戏道具NFT更强调用途，其中最成功的几款产品包括
-
 -   Cryptokitties
-
-![](https://bytedance.feishu.cn/space/api/box/stream/download/asynccode/?code=NTE2M2FjYjU1N2VjYjMwNjY0ZmZkM2IxZjg3MmE5OWVfVE5FTmZIYXJMV0RoZkR4dlpmQllzN0szTTR1MER0eVlfVG9rZW46Ym94Y255QUs0elBhdDRaVmc2cHZFZFIzTXdkXzE2NTgxNTAxODA6MTY1ODE1Mzc4MF9WNA)
-
+![[Pasted image 20220719124954.png]]
 最早提出NFT概念的产品，玩家可以养猫并且给猫繁殖
 
--   Axie infinity：Play to earn
-
-![](https://bytedance.feishu.cn/space/api/box/stream/download/asynccode/?code=NDNiNzNlODVkNTg5NTg2NGRjNDNmNTAxNmNlN2JkNTVfdmFOWWg4M2d0bDZEQW1CZkxpS08zTlNQbjhxSEllS2tfVG9rZW46Ym94Y25lUk5oSmVmcnFZb1lXYTNpVzIwd3NmXzE2NTgxNTAxODA6MTY1ODE1Mzc4MF9WNA)
-
+- Axie infinity：Play to earn
+![[Pasted image 20220719125026.png]]
 这是一款开放式的回合制策略类数字宠物游戏，包括战斗、繁殖、地块和交易市场四个系统，小精灵即是矿机
 
 -   STEPN：Move to earn
-
-![](https://bytedance.feishu.cn/space/api/box/stream/download/asynccode/?code=NWE1YmIyNGI5NWEwYTMzZGZhNTM1OGYyNDNkOWYyMWJfRklOdk9YdDRWdnRZYngyOTJQR2dDNnp4RDhPMG1RTVNfVG9rZW46Ym94Y243YTZ5YjJZZEV0NE5hR1Y3WUVWRlZlXzE2NTgxNTAxODA6MTY1ODE1Mzc4MF9WNA)
-
+![[Pasted image 20220719125455.png]]
 通过移动获取代币的健身应用程序，搭配NFT运动鞋的用户可以在户外活动来赚取代币，跑鞋是矿机
+
 
 ## 虚拟世界
 
 作为虚拟世界的资产证明，比较大的项目有Decentraland，用户可以在里面拥有自己的土地并且进行建设（这个很像几个月前爆炒的VR土地）
+![[Pasted image 20220719125346.png]]
 
 # 价值判断
 
@@ -159,8 +150,8 @@ NFT的发布者都是可被追溯的，如果一个没有任何背景的无名�
 
 与此同时，不可否认的是目前绝大多数人购买NFT都不是为了其艺术价值，而是为了对应藏品潜在的升值潜力，是一种投机行为。但是在所有赛道的早期，或者说在行业发展的任何一个环节，投资的主要目的一定是追求未来的价值提升，更多资本的进入代表有更多的人认为这个行业是仍有发展潜力的。
 
-抛开资本，单纯从理念上来说，web2发展到今天，大家都意识到数据控制权和所有权的重要性。在web3的观念中，用户自己的身份、数据都是由自己掌控的，数据可以保证持久存在，且不会被篡改或隐藏，这实际上是一场自下而上、打破平台垄断的革命。它符合绝大多数互联网使用者的利益，那么随着参与革命的人越来越多，也许真的能够打破web2的模式。
+抛开资本，单纯从技术和创作理念上来说，web2发展到今天，大家都意识到数据控制权和所有权的重要性。在web3的观念中，用户自己的身份、数据都是由自己掌控的，数据可以保证持久存在，且不会被篡改或隐藏，这实际上是一场自下而上、打破平台垄断的革命。它符合绝大多数互联网使用者的利益，那么随着参与革命的人越来越多，也许真的能够打破web2的模式。
 
 # 从零到一发布一款NFT （In the future）
 
-这部分计划新起一个文档继续来写，会用solidity基于openzeppelin提供的ERC721协议进行开发，前端应该是react+ether.js。完成后会把链接贴过来～
+这部分计划新起一个文档继续来写，会用[[Solidity]]基于openzeppelin提供的ERC721协议进行开发，前端应该是react+ether.js。完成后会把链接贴过来～

@@ -4,13 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "4b94dc9fbb553036",
+        "id": "ecc593ebb52b8cae",
         "type": "leaf",
+        "dimension": 25.75,
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Web3.0/NFT入门.md"
+          }
+        }
+      },
+      {
+        "id": "556efbe639116582",
+        "type": "leaf",
+        "dimension": 37.125,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Web3.0/NFT入门.md",
             "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "46f86fdcadd1aecf",
+        "type": "leaf",
+        "dimension": 37.125,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web3.0/NFT入门.md",
+            "mode": "preview",
+            "backlinks": false,
             "source": false
           }
         }
@@ -61,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 232.5,
+    "collapsed": true
   },
   "right": {
     "id": "dc46bc42261f2f16",
@@ -110,16 +138,6 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "ecc593ebb52b8cae",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Web3.0/NFT入门.md"
-              }
-            }
           }
         ]
       }
@@ -128,9 +146,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4b94dc9fbb553036",
+  "active": "46f86fdcadd1aecf",
   "lastOpenFiles": [
-    "Frontend/Javascript.md",
-    "Web3.0/NFT入门.md"
+    "Web3.0/Solidity.md",
+    "Web3.0/NFT入门.md",
+    "Web3.0/Solidity Notes.md",
+    "Frontend/Javascript.md"
   ]
 }
