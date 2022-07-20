@@ -86,7 +86,6 @@ cryptopunks 最高成交 124457ETH * 1400 USD ≈ 1.7亿美金
 ![[Pasted image 20220719124745.png]]
 Bored Ape
 ![[Pasted image 20220719124901.png]]
-![](https://bytedance.feishu.cn/space/api/box/stream/download/asynccode/?code=NTk0ZTk4OGZkYzNlZGI0MTJhMGQwNWI0OWFmY2RlYzdfUUYxMW1pMktHdExzOUlIdnRydWpaZG55MXFxRWhxZGJfVG9rZW46Ym94Y25aQk1vWG9xVGw1TmpNRDRINVFDdHVHXzE2NTgxNTAxODA6MTY1ODE1Mzc4MF9WNA)
 
 ## 游戏道具
 
@@ -152,4 +151,4 @@ NFT的发布者都是可被追溯的，如果一个没有任何背景的无名�
 
 # 从零到一发布一款NFT （In the future）
 
-这部分计划新起一个文档继续来写，会用[[Solidity]]基于openzeppelin提供的ERC721协议进行开发，前端应该是react+ether.js。完成后会把链接贴过来～
+这部分计划新起一个文档继续来写，会用solidity基于openzeppelin提供的ERC721协议进行开发，前端应该是react+ether.js。完成后会把链接贴过来～

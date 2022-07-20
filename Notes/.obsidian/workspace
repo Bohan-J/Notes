@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "ecc593ebb52b8cae",
+        "id": "842d46c5513dfecb",
         "type": "leaf",
-        "dimension": 25.75,
+        "dimension": 13.618925831202047,
         "state": {
           "type": "outline",
           "state": {
-            "file": "Web3.0/NFT入门.md"
+            "file": "Web3.0/Solidity/类型/引用类型.md"
           }
-        }
+        },
+        "group": "365fa10de0b5c071"
       },
       {
-        "id": "556efbe639116582",
+        "id": "a889feacfd3e1e85",
         "type": "leaf",
-        "dimension": 37.125,
+        "dimension": 45.65217391304348,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web3.0/NFT入门.md",
+            "file": "Web3.0/Solidity/类型/引用类型.md",
             "mode": "source",
-            "backlinks": false,
             "source": false
           }
-        }
+        },
+        "group": "365fa10de0b5c071"
       },
       {
-        "id": "46f86fdcadd1aecf",
+        "id": "e077f681b2213ae5",
         "type": "leaf",
-        "dimension": 37.125,
+        "dimension": 40.728900255754475,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web3.0/NFT入门.md",
+            "file": "Web3.0/Solidity/类型/数值类型.md",
             "mode": "preview",
-            "backlinks": false,
             "source": false
           }
         }
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 168.5
   },
   "right": {
     "id": "dc46bc42261f2f16",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web3.0/NFT入门.md",
+                "file": "Web3.0/Solidity/类型/引用类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web3.0/NFT入门.md",
+                "file": "Web3.0/Solidity/类型/引用类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,11 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "46f86fdcadd1aecf",
+  "active": "a889feacfd3e1e85",
   "lastOpenFiles": [
-    "Web3.0/Solidity.md",
-    "Web3.0/NFT入门.md",
-    "Web3.0/Solidity Notes.md",
-    "Frontend/Javascript.md"
+    "Web3.0/Solidity/类型/数值类型.md",
+    "Web3.0/Solidity/类型/映射类型.md",
+    "Web3.0/Solidity/类型/入门.md",
+    "Web3.0/Solidity/类型/引用类型.md",
+    "Web3.0/NFT概念和思考.md",
+    "Frontend/Javascript.md",
+    "img/2-2.png.md",
+    "Attachments/Pasted image 20220719124745.png",
+    "Attachments/Pasted image 20220719124901.png",
+    "Attachments/Pasted image 20220719124954.png"
   ]
 }
