@@ -6,40 +6,34 @@
       {
         "id": "842d46c5513dfecb",
         "type": "leaf",
-        "dimension": 13.618925831202047,
+        "dimension": 12.787723785166241,
         "state": {
           "type": "outline",
           "state": {
-            "file": "Web3.0/Solidity/类型/引用类型.md"
+            "file": "Web3.0/Solidity/InsertionSort.md"
           }
-        },
-        "group": "365fa10de0b5c071"
+        }
       },
       {
-        "id": "a889feacfd3e1e85",
+        "id": "56518b136bbfedd6",
         "type": "leaf",
-        "dimension": 45.65217391304348,
+        "dimension": 43.60613810741688,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web3.0/Solidity/类型/引用类型.md",
+            "file": "Web3.0/Solidity/InsertionSort.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "365fa10de0b5c071"
+        }
       },
       {
-        "id": "e077f681b2213ae5",
+        "id": "90eb1b3b94e4d778",
         "type": "leaf",
-        "dimension": 40.728900255754475,
+        "dimension": 43.60613810741688,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Web3.0/Solidity/类型/数值类型.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -104,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web3.0/Solidity/类型/引用类型.md",
+                "file": "Web3.0/Solidity/InsertionSort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web3.0/Solidity/类型/引用类型.md",
+                "file": "Web3.0/Solidity/InsertionSort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a889feacfd3e1e85",
+  "active": "56518b136bbfedd6",
   "lastOpenFiles": [
-    "Web3.0/Solidity/类型/数值类型.md",
     "Web3.0/Solidity/类型/映射类型.md",
-    "Web3.0/Solidity/类型/入门.md",
-    "Web3.0/Solidity/类型/引用类型.md",
     "Web3.0/NFT概念和思考.md",
+    "Web3.0/Dual-Token Model.md",
+    "Web3.0/Solidity/类型/入门.md",
+    "Workflow/随手记.md",
+    "Web3.0/Solidity/类型/数值类型.md",
+    "Web3.0/Solidity/类型/引用类型.md",
     "Frontend/Javascript.md",
     "img/2-2.png.md",
-    "Attachments/Pasted image 20220719124745.png",
-    "Attachments/Pasted image 20220719124901.png",
-    "Attachments/Pasted image 20220719124954.png"
+    "Attachments/Pasted image 20220719124745.png"
   ]
 }
