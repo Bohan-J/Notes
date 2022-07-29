@@ -6,34 +6,38 @@
       {
         "id": "842d46c5513dfecb",
         "type": "leaf",
-        "dimension": 12.787723785166241,
+        "dimension": 22.675736961451243,
         "state": {
           "type": "outline",
           "state": {
-            "file": "Web3.0/Solidity/InsertionSort.md"
+            "file": "Web3.0/Layer 0.md"
           }
         }
       },
       {
         "id": "56518b136bbfedd6",
         "type": "leaf",
-        "dimension": 43.60613810741688,
+        "dimension": 38.662131519274375,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web3.0/Solidity/InsertionSort.md",
+            "file": "Web3.0/Layer 0.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "90eb1b3b94e4d778",
+        "id": "539ba98a1994c964",
         "type": "leaf",
-        "dimension": 43.60613810741688,
+        "dimension": 38.662131519274375,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Web3.0/Layer 0.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -98,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web3.0/Solidity/InsertionSort.md",
+                "file": "Web3.0/Layer 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web3.0/Solidity/InsertionSort.md",
+                "file": "Web3.0/Layer 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,15 +145,15 @@
   },
   "active": "56518b136bbfedd6",
   "lastOpenFiles": [
-    "Web3.0/Solidity/类型/映射类型.md",
     "Web3.0/NFT概念和思考.md",
-    "Web3.0/Dual-Token Model.md",
-    "Web3.0/Solidity/类型/入门.md",
-    "Workflow/随手记.md",
+    "Web3.0/Solidity/InsertionSort.md",
+    "Web3.0/Layer 0.md",
     "Web3.0/Solidity/类型/数值类型.md",
+    "Web3.0/Solidity/Abstract.md",
+    "Web3.0/Solidity/类型/入门.md",
+    "Web3.0/Solidity/类型/映射类型.md",
     "Web3.0/Solidity/类型/引用类型.md",
-    "Frontend/Javascript.md",
-    "img/2-2.png.md",
-    "Attachments/Pasted image 20220719124745.png"
+    "Web3.0/Dual-Token Model.md",
+    "Workflow/随手记.md"
   ]
 }
