@@ -10,7 +10,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Web3.0/Layer 0.md"
+            "file": "Web3.0/NFT概念和思考.md"
           }
         }
       },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web3.0/Layer 0.md",
+            "file": "Web3.0/NFT概念和思考.md",
             "mode": "source",
             "source": false
           }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web3.0/Layer 0.md",
+                "file": "Web3.0/NFT概念和思考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web3.0/Layer 0.md",
+                "file": "Web3.0/NFT概念和思考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,11 +145,11 @@
   },
   "active": "56518b136bbfedd6",
   "lastOpenFiles": [
+    "Web3.0/Layer 0.md",
     "Web3.0/NFT概念和思考.md",
     "Web3.0/Solidity/InsertionSort.md",
-    "Web3.0/Layer 0.md",
-    "Web3.0/Solidity/类型/数值类型.md",
     "Web3.0/Solidity/Abstract.md",
+    "Web3.0/Solidity/类型/数值类型.md",
     "Web3.0/Solidity/类型/入门.md",
     "Web3.0/Solidity/类型/映射类型.md",
     "Web3.0/Solidity/类型/引用类型.md",
