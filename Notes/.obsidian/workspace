@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "842d46c5513dfecb",
-        "type": "leaf",
-        "dimension": 22.675736961451243,
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Web3.0/NFT概念和思考.md"
-          }
-        }
-      },
-      {
         "id": "56518b136bbfedd6",
         "type": "leaf",
-        "dimension": 38.662131519274375,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web3.0/NFT概念和思考.md",
+            "file": "Web3.0/SocialFi.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "539ba98a1994c964",
+        "id": "657dd8b1ee13f8a0",
         "type": "leaf",
-        "dimension": 38.662131519274375,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web3.0/Layer 0.md",
+            "file": "Web3.0/SocialFi.md",
             "mode": "preview",
             "source": false
           }
@@ -102,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web3.0/NFT概念和思考.md",
+                "file": "Web3.0/SocialFi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web3.0/NFT概念和思考.md",
+                "file": "Web3.0/SocialFi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,6 +122,16 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "dc5175e425805d2d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web3.0/SocialFi.md"
+              }
+            }
           }
         ]
       }
@@ -147,13 +144,13 @@
   "lastOpenFiles": [
     "Web3.0/Layer 0.md",
     "Web3.0/NFT概念和思考.md",
+    "Web3.0/SocialFi.md",
+    "Attachments/Pasted image 20220817104517.png",
+    "Web3.0/Solidity/类型/数值类型.md",
+    "Web3.0/Solidity/类型/引用类型.md",
+    "Web3.0/Solidity/类型/入门.md",
     "Web3.0/Solidity/InsertionSort.md",
     "Web3.0/Solidity/Abstract.md",
-    "Web3.0/Solidity/类型/数值类型.md",
-    "Web3.0/Solidity/类型/入门.md",
-    "Web3.0/Solidity/类型/映射类型.md",
-    "Web3.0/Solidity/类型/引用类型.md",
-    "Web3.0/Dual-Token Model.md",
-    "Workflow/随手记.md"
+    "Web3.0/Solidity/类型/映射类型.md"
   ]
 }

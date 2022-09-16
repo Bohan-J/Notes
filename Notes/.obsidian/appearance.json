@@ -1,4 +1,5 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Obsidianite"
+  "cssTheme": "Obsidianite",
+  "baseFontSize": 30
 }
